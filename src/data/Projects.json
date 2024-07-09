@@ -1,0 +1,128 @@
+{
+  "sectionTitle": { "en": "Last Projects", "es": "Últimos Proyectos" },
+  "list": [
+    {
+      "name": "Panel Agente",
+      "image": "./projects/agent-panel.png",
+      "info": {
+        "en": {
+          "type": "Individual Project",
+          "description": "Web application to manage multiple bank agents from a single place.",
+          "tasks": [
+            "Design of the MySQL database.",
+            "Development of a REST API using Node.js and Express.",
+            "Implementation of the user interface in React with TypeScript.",
+            "Deployment in Docker containers."
+          ]
+        },
+        "es": {
+          "type": "Proyecto Individual",
+          "description": "Aplicación web para gestionar múltiples agentes bancarios desde un único lugar.",
+          "tasks": [
+            "Diseño de la base de datos MySQL.",
+            "Desarrollo de una API REST utilizando Node.js y Express.",
+            "Implementación de la interfaz de usuario en React con TypeScript.",
+            "Despliegue en contenedores Docker."
+          ]
+        }
+      },
+      "stack": [
+        "React",
+        "Typescript",
+        "TailwindCSS",
+        "NodeJS",
+        "ExpressJS",
+        "JWT",
+        "MySQL",
+        "Docker"
+      ],
+      "demo": "https://favianl.github.io/agent-panel-demo/#/dashboard",
+      "source": "https://github.com/Favianl/agent-panel-demo"
+    },
+    {
+      "name": "Guardianes del Bosque",
+      "image": "./projects/guardianes.png",
+      "info": {
+        "en": {
+          "type": "Collaborative Project",
+          "description": "Web application dedicated to promoting and supporting reforestation through tree adoption.",
+          "tasks": [
+            "Development of navigation menu.",
+            "Development of register and login pages.",
+            "Implementation of Context API to manage state.",
+            "Contribution to the development of the adoption and profile pages."
+          ]
+        },
+        "es": {
+          "type": "Proyecto Colaborativo",
+          "description": "Aplicación web dedicada a promover y apoyar la reforestación a través de la adopción de árboles.",
+          "tasks": [
+            "Desarrollo del menú de navegación.",
+            "Desarrollo de páginas de registro e inicio de sesión.",
+            "Implementación de Context API para gestionar el estado.",
+            "Contribución al desarrollo de las páginas de adopción y perfil."
+          ]
+        }
+      },
+      "stack": ["React", "CSSModules", "Python", "Django", "Postgres"],
+      "demo": "https://favianl.github.io/guardianes-demo/#/adoption",
+      "source": "https://github.com/Favianl/s12-20-m-python"
+    },
+    {
+      "name": "CashFlow",
+      "image": "./projects/cashflow.png",
+      "info": {
+        "en": {
+          "type": "Collaborative Project",
+          "description": "Personal finance management system for detailed tracking of income and expenses.",
+          "tasks": [
+            "Development of Transaction Form and Modal.",
+            "Development of User Account Page.",
+            "Collaboration on the development of Home and History pages."
+          ]
+        },
+        "es": {
+          "type": "Proyecto Colaborativo",
+          "description": "Sistema de gestión de finanzas personales para realizar un seguimiento detallado de ingresos y gastos.",
+          "tasks": [
+            "Desarrollo del Formulario de Transacción y Modal.",
+            "Desarrollo de la página de Cuenta de Usuario.",
+            "Colaboración en el desarrollo de las páginas de Inicio e Historial."
+          ]
+        }
+      },
+      "stack": ["React", "MaterialUI", "Java", "Spring", "MySQL"],
+      "demo": "https://favianl.github.io/cashflow-demo/#/home",
+      "source": "https://github.com/Favianl/C14-23-m-java-react"
+    },
+    {
+      "name": "Expense Tracker",
+      "image": "./projects/tracker.png",
+      "info": {
+        "en": {
+          "type": "Individual Project",
+          "description": "Web aplication to control incomes and expenses.",
+          "tasks": [
+            "Creation of reusable components",
+            "Managing state and props.",
+            "Implementation of React Router."
+          ]
+        },
+        "es": {
+          "type": "Proyecto Individual",
+          "description": "Aplicación web para el control de ingresos y gastos.",
+          "tasks": [
+            "Creación de componentes reutilizables.",
+            "Gestión de estado y props",
+            "Implementación de React Router."
+          ]
+        }
+      },
+      "stack": ["React", "ReactRouter", "CSS"],
+      "demo": "https://favianl.github.io/expense-tracker/",
+      "source": "https://github.com/Favianl/expense-tracker"
+    }
+  ],
+  "moreLabel": { "en": "More Projects", "es": "Más Proyectos" },
+  "moreLink": "https://github.com/Favianl/javascript-projects"
+}

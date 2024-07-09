@@ -1,0 +1,60 @@
+{
+  "en": {
+    "sectionTitle": "Contact Me",
+    "sectionText": "Whether you're looking to collaborate, discuss a project, or explore any other opportunities, don't hesitate to get in touch anytime.",
+    "form": {
+      "labels": {
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "send": "Send Message"
+      },
+      "errorMessages": {
+        "name": {
+          "empty": "Enter your name.",
+          "format": "The entered name is not valid.",
+          "length": "Between 3 and 50 characters allowed."
+        },
+        "email": {
+          "empty": "Enter your email address.",
+          "format": "The entered email address is not valid."
+        },
+        "message": {
+          "empty": "Enter your message.",
+          "length": "Between 5 and 1000 characters allowed."
+        }
+      },
+      "success": "Message Sent!",
+      "error": "An error occurred, the message could not be sent."
+    }
+  },
+  "es": {
+    "sectionTitle": "Contáctame",
+    "sectionText": "Ya sea que estés buscando colaborar, discutir un proyecto o explorar cualquier otra oportunidad, no dudes en ponerte en contacto en cualquier momento.",
+    "form": {
+      "labels": {
+        "name": "Nombre",
+        "email": "Correo electrónico",
+        "message": "Mensaje",
+        "send": "Enviar Mensaje"
+      },
+      "errorMessages": {
+        "name": {
+          "empty": "Ingresa tu nombre.",
+          "format": "El nombre ingresado no es válido.",
+          "length": "Entre 3 y 50 caracteres permitidos."
+        },
+        "email": {
+          "empty": "Ingresa tu correo electrónico.",
+          "format": "El correo electrónico ingresado no es válido."
+        },
+        "message": {
+          "empty": "Ingresa tu mensaje.",
+          "length": "Entre 5 y 1000 caracteres permitidos."
+        }
+      },
+      "success": "¡Mensaje Enviado!",
+      "error": "Ocurrió un error, no se pudo enviar el mensaje."
+    }
+  }
+}

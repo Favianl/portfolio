@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+.app {
+  background:
+    radial-gradient(circle farthest-side at 0% 50%, #010c15 23.5%, #0000 0)
+      14.7px 21px,
+    radial-gradient(circle farthest-side at 0% 50%, #011627 24%, #0000 0) 13.3px
+      21px,
+    linear-gradient(#010c15 14%, #0000 0, #0000 85%, #010c15 0) 0 0,
+    linear-gradient(
+        150deg,
+        #010c15 24%,
+        #011627 0,
+        #011627 26%,
+        #0000 0,
+        #0000 74%,
+        #011627 0,
+        #011627 76%,
+        #010c15 0
+      )
+      0 0,
+    linear-gradient(
+        30deg,
+        #010c15 24%,
+        #011627 0,
+        #011627 26%,
+        #0000 0,
+        #0000 74%,
+        #011627 0,
+        #011627 76%,
+        #010c15 0
+      )
+      0 0,
+    linear-gradient(90deg, #011627 2%, #010c15 0, #010c15 98%, #011627 0%) 0 0
+      #010c15;
+  background-size: 28px 42px;
+  background-color: #010c15;
+}
+
+.linkUnderline::after {
+  content: '';
+  height: 2px;
+  width: 100%;
+  background-color: #fea55f;
+  position: absolute;
+  right: 0;
+  bottom: -4px;
+  transform: scaleX(0);
+  transform-origin: 0 100%;
+  transition: transform 0.3s;
+  border-radius: 9999px;
+}
+
+.linkUnderlineActive::after {
+  transform: scaleX(100%);
+}
+
+.spinner {
+  animation-name: spin;
+  animation-duration: 1000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

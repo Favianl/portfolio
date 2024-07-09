@@ -1,0 +1,24 @@
+[
+  {
+    "sectionId": "about",
+    "label": { "en": "About", "es": "Acerca" }
+  },
+  {
+    "sectionId": "skills",
+    "label": { "en": "Skills", "es": "Habilidades" }
+  },
+  {
+    "sectionId": "projects",
+    "label": { "en": "Projects", "es": "Proyectos" }
+  },
+  {
+    "sectionId": "experience",
+    "label": { "en": "Experience", "es": "Experiencia" },
+    "sectionTitle": { "en": "My Experience", "es": "Mi Experiencia" }
+  },
+  {
+    "sectionId": "contact",
+    "label": { "en": "Contact", "es": "Contacto" },
+    "sectionTitle": { "en": "Contact me", "es": "Contáctame" }
+  }
+]

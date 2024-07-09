@@ -1,0 +1,48 @@
+{
+  "en": {
+    "sectionTitle": "My Experience",
+    "list": [
+      {
+        "period": "10.2023 - 12.2023",
+        "role": "Frontend Developer",
+        "organization": "NoCountry - Work Simulation",
+        "description": "Participate as a frontend developer in multidisciplinary teams building solutions with different technologies."
+      },
+      {
+        "period": "2021 - Present",
+        "role": "Self-Taught Web Developer",
+        "organization": "Online Learning Resources",
+        "description": "Exploring various languages and technologies to acquire fundamental skills, and gaining experience through developing personal projects."
+      },
+      {
+        "period": "2018 - 2021",
+        "role": "Repair Technician",
+        "organization": "Self-Employed",
+        "description": "Establish and operate a self-employed repair service specializing in mobile phones and computers, providing diagnosis, repair, and maintenance services for a diverse range of devices."
+      }
+    ]
+  },
+  "es": {
+    "sectionTitle": "Mi Experiencia",
+    "list": [
+      {
+        "period": "10.2023 - 12.2023",
+        "role": "Desarrollador Frontend",
+        "organization": "NoCountry - Simulación Laboral",
+        "description": "Participé como desarrollador frontend en equipos multidisciplinarios construyendo soluciones con diferentes tecnologías."
+      },
+      {
+        "period": "2021 - Presente",
+        "role": "Desarrollador Frontend Autodidacta",
+        "organization": "Recursos de aprendizaje en línea",
+        "description": "Explorando diversos lenguajes y tecnologías para adquirir habilidades fundamentales, y ganando experiencia a través del desarrollo de proyectos personales."
+      },
+      {
+        "period": "2018 - 2021",
+        "role": "Técnico de reparación",
+        "organization": "Independiente",
+        "description": "Establecer y operar un servicio de reparación autónomo especializado en teléfonos móviles y computadoras, proporcionando servicios de diagnóstico, reparación y mantenimiento para una amplia gama de dispositivos."
+      }
+    ]
+  }
+}

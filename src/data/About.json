@@ -1,0 +1,16 @@
+{
+  "en": {
+    "sectionTitle": "About me",
+    "greeting": "Hi, I am",
+    "name": "Leo Favian",
+    "role": "Front-end Developer",
+    "aboutText": "I have always liked technology. Initially, I used to take apart and put together computers due to pure curiosity, which later led me to work in technical support, fixing computers and phones. But my real interest has always been understanding how software, the web, operating systems, and other technologies work, which motivated me to learn web development."
+  },
+  "es": {
+    "sectionTitle": "Sobre mí",
+    "greeting": "Hola, soy",
+    "name": "Leo Favian",
+    "role": "Desarrollador Front-end",
+    "aboutText": "Siempre me ha gustado la tecnología. En mis inicios, solía desarmar y armar computadoras por pura curiosidad, lo que más tarde me llevó a trabajar en soporte técnico, reparando computadoras y teléfonos. Pero mi verdadero interés siempre ha sido entender cómo funcionan el software, la web, los sistemas operativos y demás tecnologías, lo que me motivó a aprender desarrollo web."
+  }
+}

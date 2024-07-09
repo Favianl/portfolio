@@ -1,0 +1,40 @@
+{
+  "sectionTitle": { "en": "My Skills", "es": "Mis Habilidades" },
+  "list": [
+    {
+      "skillsTitle": { "en": "Languages", "es": "Lenguajes" },
+      "skills": [
+        { "name": "Javascript", "iconColor": "#f7df1e" },
+        { "name": "Typescript", "iconColor": "#007acc" },
+        { "name": "HTML", "iconColor": "#e34c26" }
+      ]
+    },
+    {
+      "skillsTitle": { "en": "Frontend", "es": "Frontend" },
+      "skills": [
+        { "name": "React", "iconColor": "#00d8ff" },
+        { "name": "CSS", "iconColor": "#2965f1" },
+        { "name": "TailwindCSS", "iconColor": "#38bdf8" },
+        { "name": "MaterialUI", "iconColor": "#0081cb" }
+      ]
+    },
+    {
+      "skillsTitle": { "en": "Backend", "es": "Backend" },
+      "skills": [
+        { "name": "NodeJS", "iconColor": "#68a063" },
+        { "name": "ExpressJS", "iconColor": "#eeeeee" },
+        { "name": "MySQL", "iconColor": "#4479a1" }
+      ]
+    },
+    {
+      "skillsTitle": { "en": "Tools", "es": "Entorno" },
+      "skills": [
+        { "name": "Git/Github", "iconColor": "#ffffff" },
+        { "name": "Docker", "iconColor": "#2496ed" },
+        { "name": "Linux", "iconColor": "#ffffff" },
+        { "name": "VSCode", "iconColor": "#007acc" },
+        { "name": "Neovim", "iconColor": "#57A143" }
+      ]
+    }
+  ]
+}
