@@ -17,9 +17,11 @@ import {
   SiPostgresql,
   SiSpring,
   SiReactrouter,
+SiPrisma
 } from 'react-icons/si';
 import { FaGithub, FaNodeJs, FaReact, FaJava } from 'react-icons/fa6';
 import { GrMysql } from 'react-icons/gr';
+import { RiNextjsLine } from "react-icons/ri";
 
 const Icon = ({ iconName }: { iconName: TechName }) => {
   const skillsList = {
@@ -27,6 +29,7 @@ const Icon = ({ iconName }: { iconName: TechName }) => {
     Typescript: <SiTypescript />,
     HTML: <SiHtml5 />,
     React: <FaReact />,
+    'Next.js': <RiNextjsLine />,
     ReactRouter: <SiReactrouter />,
     CSS: <SiCss3 />,
     CSSModules: <SiCssmodules />,
@@ -46,6 +49,7 @@ const Icon = ({ iconName }: { iconName: TechName }) => {
     Postgres: <SiPostgresql />,
     Java: <FaJava />,
     Spring: <SiSpring />,
+    Prisma: <SiPrisma />
   };
 
   const icon = skillsList[iconName];

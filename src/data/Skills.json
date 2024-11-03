@@ -13,6 +13,7 @@
       "skillsTitle": { "en": "Frontend", "es": "Frontend" },
       "skills": [
         { "name": "React", "iconColor": "#00d8ff" },
+        { "name": "Next.js", "iconColor": "#eeeeee" },
         { "name": "CSS", "iconColor": "#2965f1" },
         { "name": "TailwindCSS", "iconColor": "#38bdf8" },
         { "name": "MaterialUI", "iconColor": "#0081cb" }
@@ -23,7 +24,8 @@
       "skills": [
         { "name": "NodeJS", "iconColor": "#68a063" },
         { "name": "ExpressJS", "iconColor": "#eeeeee" },
-        { "name": "MySQL", "iconColor": "#4479a1" }
+        { "name": "MySQL", "iconColor": "#4479a1" },
+        { "name": "Prisma", "iconColor": "#eeeeee" }
       ]
     },
     {

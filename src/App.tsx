@@ -14,13 +14,12 @@ import projects from './data/Projects.json';
 import experience from './data/Experience.json';
 import contact from './data/Contact.json';
 
+type LanguageType = "en" | "es";
+
 function App() {
-  const [language, setLanguage] = useState<'en' | 'es'>(() => {
-    const storedLanguage = localStorage.getItem('language');
-    return storedLanguage &&
-      (storedLanguage === 'es' || storedLanguage === 'en')
-      ? storedLanguage
-      : 'en';
+  const [language, setLanguage] = useState<LanguageType>(() => {
+    const storedLanguage = localStorage.getItem('language') as LanguageType;
+    return storedLanguage ? storedLanguage : 'en';
   });
 
   useEffect(() => {

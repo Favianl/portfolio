@@ -40,6 +40,35 @@
       "source": "https://github.com/Favianl/agent-panel-demo"
     },
     {
+      "name": "SaboresXpertos",
+      "image": "./projects/sabores-xpertos.png",
+      "info": {
+        "en": {
+          "type": "Collaborative Project",
+          "description": "Web application focused on restaurants that allows users to view and leave recommendations based on reviews and ratings.",
+          "tasks": [
+            "Implementation of the landing page according to the design.",
+            "Contribution to the creation of the restaurant view and development of components to list the restaurants.",
+            "Implementation of functionality to edit and delete restaurants.",
+            "Creation of CRUD operations to manage cities and categories."
+          ]
+        },
+        "es": {
+          "type": "Proyecto Colaborativo",
+          "description": "Aplicación web enfocada en restaurantes que permite a los usuarios ver y dejar recomendaciones basadas en reseñas y calificaciones.",
+          "tasks": [
+            "Implementación de la landing page según el diseño.",
+            "Contribución en la creación de la vista del restaurante y en el desarrollo de componentes para listar los restaurantes.",
+            "Implementación de la funcionalidad para editar y eliminar restaurantes.",
+            "Creación de las operaciones CRUD para gestionar ciudades y categorías."
+          ]
+        }
+      },
+      "stack": ["React", "Next.js", "Typescript", "TailwindCSS", "Prisma", "Postgres"],
+      "demo": "https://next-restaurant-liart.vercel.app/",
+      "source": "https://github.com/Favianl"
+    },
+    {
       "name": "Guardianes del Bosque",
       "image": "./projects/guardianes.png",
       "info": {
