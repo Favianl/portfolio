@@ -3,7 +3,13 @@
     "sectionTitle": "My Experience",
     "list": [
       {
-        "period": "10.2023 - Present",
+        "period": "2025 - Present",
+        "role": "Web Developer",
+        "organization": "Webhance - Self-Employed",
+        "description": "I started my independent web development journey, building unique and functional digital experiences for every project."
+      },
+      {
+        "period": "10.2023 - 2024",
         "role": "Frontend Developer",
         "organization": "NoCountry - Work Simulation",
         "description": "Participate as a frontend developer in multidisciplinary teams building solutions with different technologies."
@@ -26,7 +32,13 @@
     "sectionTitle": "Mi Experiencia",
     "list": [
       {
-        "period": "10.2023 - Presente",
+        "period": "2025 - Present",
+        "role": "Desarrollador Web",
+        "organization": "Webhance - Independiente",
+        "description": "Emprendí mi camino en el desarrollo web independiente, dedicado a construir experiencias digitales únicas y funcionales para cada proyecto."
+      },
+      {
+        "period": "10.2023 - 2024",
         "role": "Desarrollador Frontend",
         "organization": "NoCountry - Simulación Laboral",
         "description": "Participé como desarrollador frontend en equipos multidisciplinarios construyendo soluciones con diferentes tecnologías."

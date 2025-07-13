@@ -40,33 +40,33 @@
       "source": "https://github.com/Favianl/agent-panel-demo"
     },
     {
-      "name": "SaboresXpertos",
-      "image": "./projects/sabores-xpertos.png",
+      "name": "Webhance",
+      "image": "./projects/webhance.webp",
       "info": {
         "en": {
-          "type": "Collaborative Project",
-          "description": "Web application focused on restaurants that allows users to view and leave recommendations based on reviews and ratings.",
+          "type": "Individual Project",
+          "description": "A dynamic website built for a web design and development venture. It features a modern interface with essential sections and a user-friendly contact form to connect with potential clients.",
           "tasks": [
-            "Implementation of the landing page according to the design.",
-            "Contribution to the creation of the restaurant view and development of components to list the restaurants.",
-            "Implementation of functionality to edit and delete restaurants.",
-            "Creation of CRUD operations to manage cities and categories."
+            "Development of static pages with Astro and HTML.",
+            "Styling with CSS and Tailwind CSS, incorporating DaisyUI components.",
+            "Implementation of interactive elements using TypeScript.",
+            "Integration of a contact form."
           ]
         },
         "es": {
-          "type": "Proyecto Colaborativo",
-          "description": "Aplicación web enfocada en restaurantes que permite a los usuarios ver y dejar recomendaciones basadas en reseñas y calificaciones.",
+          "type": "Proyecto Individual",
+          "description": "Un sitio web dinámico creado para un emprendimiento de diseño y desarrollo web. Presenta una interfaz moderna con secciones esenciales y un formulario de contacto fácil de usar para conectar con clientes potenciales.",
           "tasks": [
-            "Implementación de la landing page según el diseño.",
-            "Contribución en la creación de la vista del restaurante y en el desarrollo de componentes para listar los restaurantes.",
-            "Implementación de la funcionalidad para editar y eliminar restaurantes.",
-            "Creación de las operaciones CRUD para gestionar ciudades y categorías."
+            "Desarrollo de páginas estáticas con Astro y HTML.",
+            "Estilizado con CSS y Tailwind CSS, incorporando componentes de DaisyUI.",
+            "Implementación de elementos interactivos usando TypeScript.",
+            "Integración de un formulario de contacto."
           ]
         }
       },
-      "stack": ["React", "Next.js", "Typescript", "TailwindCSS", "Prisma", "Postgres"],
-      "demo": "https://next-restaurant-liart.vercel.app/",
-      "source": "https://github.com/Favianl"
+      "stack": ["Astro", "HTML", "CSS", "TailwindCSS", "DaisyUI", "Typescript"],
+      "demo": "https://webhance.vercel.app",
+      "source": "https://webhance.vercel.app"
     },
     {
       "name": "Guardianes del Bosque",
@@ -125,31 +125,33 @@
       "source": "https://github.com/Favianl/C14-23-m-java-react"
     },
     {
-      "name": "Expense Tracker",
-      "image": "./projects/tracker.png",
+      "name": "LiveProp",
+      "image": "./projects/liveprop.webp",
       "info": {
         "en": {
           "type": "Individual Project",
-          "description": "Web aplication to control incomes and expenses.",
+          "description": "A comprehensive website for a real estate agency, featuring essential sections, property listings, and robust search functionality.",
           "tasks": [
-            "Creation of reusable components",
-            "Managing state and props.",
-            "Implementation of React Router."
+            "Website development using WordPress and Elementor.",
+            "Custom styling with CSS and HTML for enhanced aesthetics.",
+            "Integration of plugins for property listings, advanced search, and administrative panels.",
+            "Implementation of a user-friendly interface for property management."
           ]
         },
         "es": {
           "type": "Proyecto Individual",
-          "description": "Aplicación web para el control de ingresos y gastos.",
+          "description": "Un sitio web completo para una agencia inmobiliaria, que incluye secciones esenciales, listados de propiedades y una potente funcionalidad de búsqueda.",
           "tasks": [
-            "Creación de componentes reutilizables.",
-            "Gestión de estado y props",
-            "Implementación de React Router."
+            "Desarrollo del sitio web utilizando WordPress y Elementor.",
+            "Estilizado personalizado con CSS y HTML para una estética mejorada.",
+            "Integración de plugins para listados de propiedades, búsqueda avanzada y paneles administrativos.",
+            "Implementación de una interfaz de usuario amigable para la gestión de propiedades."
           ]
         }
       },
-      "stack": ["React", "ReactRouter", "CSS"],
-      "demo": "https://favianl.github.io/expense-tracker/",
-      "source": "https://github.com/Favianl/expense-tracker"
+      "stack": ["Wordpress", "Elementor", "CSS", "HTML", "Plugins"],
+      "demo": "https://liveprop.wasmer.app",
+      "source": "https://liveprop.wasmer.app"
     }
   ],
   "moreLabel": { "en": "More Projects", "es": "Más Proyectos" },
